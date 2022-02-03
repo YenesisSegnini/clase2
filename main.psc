@@ -5,3 +5,5 @@ Algoritmo Clase1
 	//Esto es un comentario
 	Mostrar "Esto no lo quiero mostrar"
 FinAlgoritmo
+
+Esto es la version 2 del archivo main
